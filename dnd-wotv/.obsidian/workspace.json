@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "ad60109cf15d25de",
+    "type": "split",
+    "children": [
+      {
+        "id": "affa027eb06491ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d374819f5fb8ccee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Bounties/Ludwig the Holy Blade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b572100c124a9d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c23f460c79c86925",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "223358bf6803f76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a8c58b685c46937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17977a1d06e0ac90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9b148b6e00a83db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fddc883b4c49729",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99f841640a3c74df",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9ba3857a7559103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ebaa7ce32283eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8aecd9c5dbe8c16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b17ba3b1eb19c5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a7088c874a59eb68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c23f460c79c86925",
+  "lastOpenFiles": [
+    "Quests/Bounties/Ludwig the Holy Blade.md",
+    "Quests/Bounties/Zefarane Hit list.md",
+    "Bestiary/Aggresive/Sandsharks.md",
+    "Bestiary/Aggresive/Sentinels.md",
+    "Bestiary/Aggresive/Creature of the Desert.md",
+    "Armoury/(CHEMICAL CANISTER) Chloroform.md",
+    "Welcome.md",
+    "Pasted image 20240207132304.png",
+    "Pasted image 20240316181221.png",
+    "Pasted image 20240326160738.png",
+    "Pasted image 20240326160733.png",
+    "Pasted image 20240316181232.png",
+    "Pasted image 20240316135001.png",
+    "Pasted image 20240207132726.png",
+    "Pasted image 20240207132724.png",
+    "Pasted image 20240207132443.png",
+    "Pasted image 20240207132306.png",
+    "Template/Quest.template.md",
+    "Template/NPC.template.md",
+    "Template/Location.template.md",
+    "Template/Item.template.md",
+    "Template/Faction.template.md",
+    "Template/Character.template.md",
+    "Template/Bestiary.template.md",
+    "Template/Anomaly.template.md",
+    "Template",
+    "Quests/Secondary/Tending to Old Wounds.md",
+    "Quests/Secondary/O' Mysterious Cosmos.md",
+    "Quests/Main/The Artificers of House Salvation.md",
+    "Quests/Secondary/Cult of Kháos.md",
+    "Quests/Main/Cross-Desert Delivery.md",
+    "Quests/Completed/Protection from the Desert.md",
+    "Quests/Completed/Strauth & Co.md",
+    "Quests/Secondary",
+    "Quests/Main",
+    "Quests/Completed",
+    "Quests/Bounties",
+    "Quests",
+    "Everything/Letters & Books/Victor Strauths Experimental Logbook.md",
+    "Everything/Letters & Books/Note left by the Sentinel Runesmith.md",
+    "Everything/Letters & Books/Book written in an unknown language.md",
+    "Everything/Letters & Books/A book written on Tieflings.md",
+    "Everything/Letters & Books",
+    "Everything/People",
+    "Everything/Locations",
+    "Everything/Factions"
+  ]
+}

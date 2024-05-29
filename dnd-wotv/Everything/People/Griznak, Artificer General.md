@@ -1,0 +1,1 @@
+For a lack of a proper description, this is the big boss of [["Angel"]] and [["Taggy"]] within the Artificer Guild (House of Salvation). They are the ones who tasked the two artificers to set out to explore the unknown desert, to study its anomalies and return with discoveries that would build their reputation.
