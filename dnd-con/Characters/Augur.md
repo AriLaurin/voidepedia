@@ -1,0 +1,4 @@
+> [!info] SESSION 1
+> I overhead this spectral skeleton talk about a task that required for him to meet a group of people in the tavern in Asker. By assumption I thought it was the same task I was given too, and was met with a kind heart. A very talkative spirit, that one.
+> 
+> After wandering around for not so long with him, it is very clear that this person is nothing short of supernatural. He floats around, turns into a mist and casts voodoo trickery of anything i've ever seen before. I can't quite put my finger on what this guys' deal is, but he seems to hold money and other valuables of high interest to him.

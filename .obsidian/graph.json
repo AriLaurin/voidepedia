@@ -6,7 +6,22 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:dnd-wotv  ",
+      "color": {
+        "a": 1,
+        "rgb": 10048224
+      }
+    },
+    {
+      "query": "path:dnd-con  ",
+      "color": {
+        "a": 1,
+        "rgb": 13044234
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8870053820399099,
-  "close": false
+  "scale": 0.5993527999072213,
+  "close": true
 }

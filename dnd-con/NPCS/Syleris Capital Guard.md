@@ -1,0 +1,1 @@
+> [[Ullr Bergelund]] and I helped this guard recover one of his comrades, although i'm not sure if his friend will make it, he was more than thankful for our help, and rewarded me with 5 Crowns, and a map before he left for the Capital.

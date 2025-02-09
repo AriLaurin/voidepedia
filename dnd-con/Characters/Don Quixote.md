@@ -1,0 +1,4 @@
+> [!info] SESSION 1
+> During the fight with the dark elf, this mouse's true background was revealed. They lashed out towards the Dark elf, repeatedly stabbing it in a feral rage. It seems this dispute was rather personal to the mouse, which was later revealed to be because one of the dark elves have burnt down the mouse's village. Quite a grim tale.
+> 
+> They later apologised for their outburst, I believe they did not mean to burst out in a rage like this. Despite their size they seem to have a fiery spirit, though they also carry a heavy load on their mind, I do wish I could help this poor mouse with their troubles, they could be destined to achieve much good.

@@ -1,0 +1,4 @@
+> [!info] SESSION 1
+> This goblin was introduced to me by Augur, who mentioned that she also was apart of the task I was given. I haven't heard a lot from her yet.
+> 
+> I.. don't think I have seen anyone spew as much flames as she has within the span of a single evening. She is nothing short of fierce, and seems to strive in the midst of violence. Quite the rebel, I must say, she seems to do whatever she deems right in her mind. I think it would be rather interesting to see why she has chosen to accept the task at hand, what could she benefit from going to Alfheim? Perhaps it's not the reward, but the journey filled with violence that interests them?
