@@ -1,3 +1,16 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "S - Images Adjustments",
+    "S - Folder Styles Rewritten",
+    "S - External Link Icons",
+    "S - Encoded Icons",
+    "S - Encoded Fonts",
+    "S - Embed Adjustments",
+    "S - Dataview Cards",
+    "S - Checkboxes",
+    "S - Callouts",
+    "S - Alt Color Scheme Template"
+  ]
 }

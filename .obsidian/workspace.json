@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "dnd-con/Characters/Makomo Masako.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -144,6 +144,16 @@
               "icon": "lucide-list",
               "title": "Outline of Victor Strauth's Plague"
             }
+          },
+          {
+            "id": "187b48e23a5c3c01",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ]
       }
@@ -159,48 +169,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "ledger-obsidian:Add to Ledger": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "37e03a8baa2bd0c3",
   "lastOpenFiles": [
+    "dnd-con/Characters/Ullr Bergelund.md",
+    "dnd-con/Characters/Makomo Masako.md",
+    "dnd-con/Characters/Lassandra.md",
+    "dnd-con/Characters/Zaggatha.md",
+    "lassandra.png",
+    "dnd-wotv/Template/C2.template.md",
+    "dnd-con/charactersmakomo Masako.md",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "2. Mechanics/Non-Player Characters",
+    "2. Mechanics",
+    "Makomo Masako-Portrait(6).png",
+    "dnd-con/Characters/Augur.md",
+    "2. Mechanics/Non-Player Characters/test.md",
+    "z_Assets/Misc",
+    "z_Assets",
+    "dnd-wotv/Template/Character.template.md",
+    "dnd-wotv/Quests/Secondary/Mystery in Ellis.md",
+    "dnd-con/Characters/Don Quixote.md",
+    "dnd-wotv/Template/Bestiary.template.md",
+    "dnd-con/Characters/Momo.md",
+    "Character Image Placeholder.md",
+    "Makomo Masako-Portrait(4).png",
+    "dnd-wotv/Template/NPC.template.md",
+    "dnd-con/Quests/Main/Retrieve Artefact.md",
+    "dnd-con/Inventory.ledger",
+    "transactions.ledger",
+    "dnd-con/Inventory.md",
+    "dnd-con/Locations/Asker.md",
+    "dnd-con/Locations/River Town.md",
+    "dnd-con/NPCS/Scary Mercenary & Co.md",
+    "dnd-con/NPCS/Syleris Capital Guard.md",
+    "dnd-con/NPCS/Tiefling Bartender.md",
+    "dnd-con/Notes.md",
     "Pasted image 20250209163531.png",
     "Pasted image 20250209163517.png",
     "Pasted image 20250209163509.png",
     "Pasted image 20250209163502.png",
     "Pasted image 20250209163455.png",
-    "dnd-con/Characters/Makomo Masako.md",
-    "dnd-con/Bestiary/Dark Elf.md",
-    "dnd-con/NPCS/Scary Mercenary & Co.md",
-    "dnd-con/NPCS/Syleris Capital Guard.md",
-    "dnd-con/NPCS/Tiefling Bartender.md",
-    "dnd-con/Characters/Augur.md",
-    "dnd-con/Characters/Don Quixote.md",
-    "dnd-con/Characters/Lassandra.md",
-    "dnd-con/Characters/Ullr Bergelund.md",
-    "dnd-con/Characters/Zaggatha.md",
-    "dnd-con/Locations/Asker.md",
-    "dnd-con/Locations/River Town.md",
-    "dnd-con/Quests/Main/Retrieve Artefact.md",
-    "dnd-con/Notes.md",
-    "dnd-con/Locations/Ghost town by the river.md",
-    "dnd-con/Quests/Misc/Ghost town by the river.md",
-    "dnd-con/Locations/Alfheim.md",
-    "dnd-wotv/Everything/Locations/Black Space.md",
-    "dnd-wotv/Everything/Anomalies/Magic Compass.md",
-    "dnd-wotv/Everything/Anomalies/Chest With A Gem.md",
-    "dnd-wotv/Everything/Anomalies/Beetle Amulet.md",
-    "dnd-wotv/Everything/Anomalies/Ancient Symbols Amongst Ruins.md",
-    "dnd-wotv/Bestiary/Aggresive/Ludwig the Holy Blade.md",
-    "dnd-wotv/Bestiary/Aggresive/Creature of the Desert.md",
-    "dnd-wotv/Quests/Completed/Strauth & Co.md",
     "dnd-con/Quests/Misc",
     "dnd-con/Quests/Main",
     "dnd-con/Quests",
-    "dnd-con/Bestiary",
-    "dnd-con/Locations",
-    "dnd-con/NPCS",
-    "dnd-con/Characters",
-    "dnd-con"
+    "dnd-con/Bestiary"
   ]
 }
