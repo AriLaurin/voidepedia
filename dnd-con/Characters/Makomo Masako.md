@@ -14,7 +14,7 @@ characterRole: Ronin
 
 > [!infobox]
 > # `=this.file.name`
-> ![[Makomo Masako-Portrait(6).png|cover hsmall]]
+> ![[Makomo Masako-Portrait.png]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|

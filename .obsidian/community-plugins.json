@@ -4,5 +4,7 @@
   "obsidian-style-settings",
   "dataview",
   "dbfolder",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-leaflet-plugin",
+  "obsidian-timeline"
 ]
