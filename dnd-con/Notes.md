@@ -17,3 +17,12 @@ A river town was discovered near the river towards Alfheim, not marked on the ma
 We talked to one of the dead peasants, they mentioned that a dark elf commanded them all to kill themselves, as well as mentioning the dark elf did this merely as a distraction. While its main objective was to leave towards Terremis.
 
 We find a child left alive in one of the houses, it was left paralysed, and after a further investigation revealed that he has been marked by a dark elf with a bite on the neck. Augur ended this interaction with sending the child to a different location in the world.
+
+# DOWNTIME 1 (PRE-SESSION 2)
+Momo and Don walked around the Ghost town, found 2 children in need of help, one of them have bloated purple arms, of khaos origin. Don means to say its a mark of the dark elf
+
+Lassandra and Ullr followed some tracks from the child we found in session 1, it lead to a cabin where they later found a Dark Elf surprising them. The Dark elf, "Hel" seems to be related to the Dark Elf child we killed.
+
+Augur finished his ritual on the first child
+
+Zaggatha finished burning the corpses
