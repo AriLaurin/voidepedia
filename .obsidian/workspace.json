@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dae99fdcf6d3b4e3",
+        "id": "341f5c0f761d6431",
         "type": "tabs",
         "children": [
           {
-            "id": "37e03a8baa2bd0c3",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
-            }
-          },
-          {
-            "id": "bf700c74a94edd84",
+            "id": "1f395e29e87e24dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dnd-wotv/Template/L2.template.md",
+                "file": "dnd-con/Bestiary/Dark Elf.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2.template"
+              "title": "Dark Elf"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5
   },
   "right": {
     "id": "b2ef35fbcac96776",
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dnd-wotv/Everything/Anomalies/Victor Strauth's Plague.md",
+                "file": "dnd-con/Bestiary/Dark Elf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Victor Strauth's Plague"
+              "title": "Backlinks for Dark Elf"
             }
           },
           {
@@ -124,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dnd-wotv/Everything/Anomalies/Victor Strauth's Plague.md",
+                "file": "dnd-con/Bestiary/Dark Elf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Victor Strauth's Plague"
+              "title": "Outgoing links from Dark Elf"
             }
           },
           {
@@ -139,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -151,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dnd-wotv/Everything/Anomalies/Victor Strauth's Plague.md"
+                "file": "dnd-con/Bestiary/Dark Elf.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Victor Strauth's Plague"
+              "title": "Outline of Dark Elf"
             }
           },
           {
@@ -165,6 +159,38 @@
               "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d5111b5f337756d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ec6cfaf8f2ec639",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "06825a109f8a583c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b767ba4aefae764",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
@@ -187,7 +213,6 @@
       "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "publish:Publish changes...": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "helpmate:HelpMate": false,
       "obsidian-kanban:Create new board": false,
@@ -195,53 +220,53 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "bf700c74a94edd84",
+  "active": "1f395e29e87e24dc",
   "lastOpenFiles": [
-    "dnd-wotv/Template/C2.template.md",
-    "dnd-wotv/Template/L2.template.md",
-    "dnd-con/Locations/Asker.md",
     "dnd-con/Characters/Augur.md",
+    "dnd-con/Bestiary/Dark Elf.md",
+    "dnd-con/Notes.md",
+    "Untitled Kanban 1.md",
+    "Dark elf.md",
+    "Desc.md",
+    "dnd-con/NPCS/Hel.md",
     "dnd-con/Characters/Don Quixote.md",
     "dnd-con/Characters/Lassandra.md",
+    "dnd-wotv/Everything/People/Angel.md",
+    "Untitled Kanban.md",
+    "Session notes.md",
+    "dnd-wotv/Template/monster.template.md",
+    "dnd-con/NPCS/Syleris Capital Guard.md",
+    "dnd-con/NPCS/Silver Elf Warrior.md",
+    "dnd-con/NPCS/Scary Mercenary & Co.md",
+    "dnd-con/Locations/River Town.md",
+    "dnd-con/Locations/Outskirts Town - Alfheim.md",
+    "dnd-con/Locations/Asker.md",
     "dnd-con/Characters/Makomo Masako.md",
     "dnd-con/Characters/Ullr Bergelund.md",
     "dnd-con/Characters/Zaggatha.md",
+    "dnd-con/Quests/Main/Retrieve Artefact.md",
+    "dnd-con/NPCS/Tiefling Bartender.md",
+    "dnd-con/NPCS/Silver Elf Royal.md",
+    "dnd-con/World/Map.md",
+    "Pics/outskirtstown.png",
+    "Pics/rivertown.png",
+    "Pics/asker.png",
+    "dnd-con/Inventory.ledger",
+    "Pics/eflwarrior.png",
+    "Pics/hel 1.png",
+    "Pics/hel.png",
     "Pics/4e1927e2-9ab2-40e5-8c41-d434aab774ca.png",
-    "dnd-con/Locations/River Town.md",
-    "dnd-con/Notes.md",
     "Pics/1d1c11d0-7834-4efc-8f11-2a43b19a187d.png",
     "Pics/ullrbergelund.png",
     "Pics/bitchhote_small_png.png",
-    "dnd-con/World/Map.md",
-    "dnd-con/World/Timeline - Global.md",
-    "dnd-con/Inventory.ledger",
-    "dnd-wotv/Quests/Secondary/Tending to Old Wounds.md",
-    "dnd-wotv/Quests/Secondary/Strauth & Co.md",
-    "dnd-wotv/Quests/Secondary/O' Mysterious Cosmos.md",
-    "dnd-wotv/Quests/Secondary/Mystery in Ellis.md",
-    "dnd-wotv/Quests/Secondary/Cult of Kháos.md",
-    "dnd-wotv/Quests/Main/The Artificers of House Salvation.md",
-    "dnd-wotv/Quests/Main/Cross-Desert Delivery.md",
-    "dnd-wotv/Quests/Completed/Strauth & Co.md",
-    "dnd-wotv/Quests/Completed/Protection from the Desert.md",
-    "dnd-wotv/Quests/Bounties/Zefarane Hit list.md",
-    "dnd-wotv/Quests/Bounties/Ludwig the Holy Blade.md",
-    "dnd-wotv/Everything/People/Andraste Helder.md",
-    "dnd-wotv/Everything/People/Amir Osman.md",
     "transactions.ledger",
     "dnd-wotv/Misc",
     "Pics",
     "dnd-con/World/timeline-dates",
     "dnd-con/World",
-    "Pics/Syleris_parchment_map_upgrade.jpg",
-    "Pics/Makomo Masako-Portrait.png",
-    "Pics/lassandra.png",
     "2. Mechanics/Non-Player Characters",
     "2. Mechanics",
-    "Pics/Makomo Masako-Portrait(6).png",
     "z_Assets/Misc",
-    "z_Assets",
-    "Pics/Makomo Masako-Portrait(4).png",
-    "Pics/Pasted image 20250209163531.png"
+    "z_Assets"
   ]
 }

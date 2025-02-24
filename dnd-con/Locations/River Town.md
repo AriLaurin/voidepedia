@@ -1,7 +1,35 @@
-> [!tip] "Momo" Reputation in this place: Neutral
+---
+type: Village
+Alignment: Neutral
+region:
+  - Syleris
+  - Afang
+size: Small
+population: 0
+commonraces:
+  - Humans
+religion: []
+---
 
-> [!info] DESCRIPTION
-> We discovered a River town on our way towards Alfheim, strangely enough it wasn't marked on the map. Upon arrival we were greeted with hanged corpses on every low branch we could see. All the nooses seem to be tied perfectly and theres a stool under each and every one of them, a synchronous suicide happened here.
+> [!infobox]
+> # `=this.file.name` 
+> ![[rivertown.png]]
+> ###### Geography
+> Type |  Stat |
+> ---|---|
+> Type | `=this.type` |
+> Size | `=this.size` |
+> Region | `=this.region` |
+> ###### Society
+> Type |  Stat |
+> ---|---|
+> Population | `=this.population` |
+> Races | `=this.commonraces`|
+
+
+# `=this.file.name`
+## Overview
+>We discovered a River town on our way towards Alfheim, strangely enough it wasn't marked on the map. Upon arrival we were greeted with hanged corpses on every low branch we could see. All the nooses seem to be tied perfectly and theres a stool under each and every one of them, a synchronous suicide happened here.
 > 
 > [[Augur]] used some sort of necromancy to talk with one of the dead peasants, where we could ask five questions. Upon questioning we discovered that a dark elf commanded the entire town to kill themselves, with no further motive. The river town was not the dark elf's main attraction, as their destination was set towards right after this, a mere distraction this was.
 > 
@@ -15,7 +43,20 @@
 > 
 > [[Zaggatha]] went back to the corpses on the trees, and crucified every single one of them in hellfire, to prevent any sort of disease from spreading.
 
-> [!abstract] INTERESTS
-> Bloated hanged corpses on trees
+## Notable NPCs
+> [[Hel]]
+> Adopted Children
 
-> [!info] RELATIONS
+## Points of Interest
+>Hanged corpses tree
+>Riverbank
+>Cabin in the woods
+
+## Valuables
+None
+
+## Background
+None
+
+## Additional Details
+None

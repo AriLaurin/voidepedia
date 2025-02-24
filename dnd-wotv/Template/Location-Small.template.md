@@ -1,21 +1,22 @@
 ---
-type: Town
-Alignment: Neutral
+type: Outpost
+Alignment: Chaotic Evil
 region:
-  - Syleris
-  - Afang
-size: Medium
-population: 
+  - This area
+  - Of this area
+size: Small city
+population: 0
 commonraces:
   - Humans
-  - Tieflings
+  - Elves
+  - Dwarves
 religion:
-  - None
+  - Lathander
 ---
 
 > [!infobox]
 > # `=this.file.name` 
-> ![[asker.png]]
+> ![[MapPlaceholder.png|cover hsmall]]
 > ###### Geography
 > Type |  Stat |
 > ---|---|
@@ -31,21 +32,19 @@ religion:
 
 # `=this.file.name`
 ## Overview
-> Theres not much to say about this place, I came across it on my travels as it was where I was supposed to meet my band of travellers, so we could step foot on Alfheim safely.
+Placeholder
 
 ## Notable NPCs
-> [[Tiefling Bartender]]
-> [[Scary Mercenary & Co]]
+Placeholder
 
 ## Points of Interest
->Glutt-Inn
->Brothel
+Placeholder
 
 ## Valuables
-None
+Placeholder
 
 ## Background
-None
+Placeholder
 
 ## Additional Details
-None
+Placeholder

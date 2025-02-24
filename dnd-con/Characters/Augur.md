@@ -39,3 +39,6 @@ characterRole: ???
 > I overhead this spectral skeleton talk about a task that required for him to meet a group of people in the tavern in Asker. By assumption I thought it was the same task I was given too, and was met with a kind heart. A very talkative spirit, that one.
 > 
 > After wandering around for not so long with him, it is very clear that this person is nothing short of supernatural. He floats around, turns into a mist and casts voodoo trickery of anything i've ever seen before. I can't quite put my finger on what this guys' deal is, but he seems to hold money and other valuables of high interest to him.
+> 
+> #### Session 2
+> Augur has proven himself to be very versatile in his way of magicks. A reliable man, however his morals seem to be.. not quite there. He has no issues with doing good, however his way of fighting and his own sense of judgement is quite unhonorable.. definitely not something my people would look well upon. Despite this I believe I can look away from his way of life, as he continues to prove to be a useful companion.

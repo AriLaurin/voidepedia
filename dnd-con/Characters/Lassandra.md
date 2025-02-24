@@ -40,4 +40,7 @@ characterRole: ???
  >Met her the first time at the tavern in Asker, she asked me about the tiny dragon by the fireplace. I mentioned that it looked too small to be of any harm, and she offered me a drink.. very kind of her! ( •.•)
 >
 >She seems to be very capable of fending for herself, as she seems fearless in the face of the adversary. I'm glad she is one of the acquaintances that I will be travelling with, she seems like good company.. I wonder what brings them here for this quest though.
+>
+>#### Session 2
+>Thank the spirits she came out mostly unscathed from our journey towards Alfheim. She came quite close to meeting a grim fate when we met Hel, and I would be disappointed in myself if she were to keel over before I could even attempt to help her. I know she can fend off for herself, but I should really consider working more closely with her if i wish to keep her safe.
 

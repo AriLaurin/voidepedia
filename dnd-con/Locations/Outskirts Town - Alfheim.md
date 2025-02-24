@@ -3,19 +3,17 @@ type: Town
 Alignment: Neutral
 region:
   - Syleris
-  - Afang
+  - Alfheim
 size: Medium
-population: 
+population: 0
 commonraces:
-  - Humans
-  - Tieflings
+  - Silver Elf
 religion:
-  - None
 ---
 
 > [!infobox]
 > # `=this.file.name` 
-> ![[asker.png]]
+> ![[outskirtstown.png]]
 > ###### Geography
 > Type |  Stat |
 > ---|---|
@@ -31,15 +29,16 @@ religion:
 
 # `=this.file.name`
 ## Overview
-> Theres not much to say about this place, I came across it on my travels as it was where I was supposed to meet my band of travellers, so we could step foot on Alfheim safely.
+On the outskirts of Alden, theres a rather well established elven town, where rather sophisticated citizens used to live, however now the place is empty.
 
 ## Notable NPCs
-> [[Tiefling Bartender]]
-> [[Scary Mercenary & Co]]
+None
 
 ## Points of Interest
->Glutt-Inn
->Brothel
+> Blacksmith
+> Tailorshop
+> Cobbler
+> Community House
 
 ## Valuables
 None
@@ -48,4 +47,4 @@ None
 None
 
 ## Additional Details
-None
+Place seems to have been fled prior to any siege on the town

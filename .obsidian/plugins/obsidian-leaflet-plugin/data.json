@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1739439744909,
+      "lastAccessed": 1740396396300,
       "markers": [
         {
           "id": "ID_3b8aeb180a8b",
@@ -20,11 +20,114 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbc80ab849e9",
+          "type": "Town",
+          "loc": [
+            4697.299298878779,
+            3319.9381532033053
+          ],
+          "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mousefolk Village (Scorched)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_795808a8eb2a",
+          "type": "Town",
+          "loc": [
+            4921.6015625,
+            3137.625
+          ],
+          "link": "Outskirts Town - Alfheim",
+          "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Outskirts Town (Abandoned)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_296a4a2bc89a",
+          "type": "Point of Interest",
+          "loc": [
+            4995.1171875,
+            2822.4609375
+          ],
+          "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Silver Elf Cabin",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d919a9287b58",
+          "type": "Undiscovered",
+          "loc": [
+            5548,
+            2804
+          ],
+          "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4563802083333333,
+            -0.9029947916666666
+          ],
+          "description": "Mage Residence",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09db49e99b8b",
+          "type": "Point of Interest",
+          "loc": [
+            4711.419337415598,
+            3588.290700935328
+          ],
+          "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Watch Tower (Abandoned)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b3bea78c9e9",
+          "type": "Town",
+          "loc": [
+            4527.8643607086815,
+            3898.970218647439
+          ],
+          "link": "Asker",
+          "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Asker",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "dnd-con/World/Map.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -41,7 +144,39 @@
     {
       "type": "Town",
       "iconName": "home",
-      "color": "#e100ff",
+      "color": "#005e99",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Undiscovered",
+      "iconName": "question",
+      "color": "#9b2246",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Point of Interest",
+      "iconName": "eye",
+      "color": "#dddddd",
       "alpha": 1,
       "layer": true,
       "transform": {

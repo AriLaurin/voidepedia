@@ -12,6 +12,7 @@ alignment:
 characterRole: 
 ---
 
+
 > [!infobox]
 > # `=this.file.name`
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
@@ -35,3 +36,5 @@ characterRole:
 
 # `=this.file.name`
 ## Journal Entry
+>#### Session 2
+>I found this royal in the cabin, next to a cradle with a baby in it. They explained how they are taking care of the baby who is the last one of its kind. The baby's name is "Olivia Parmenides", who had a blue crystal pendant on them, which the royal explained is a family heirloom to the Parmenides.
