@@ -1,16 +1,9 @@
-> [!tip] Angels Kill Count: 
 
-> [!info] DESCRIPTION
+> [!div|grid]
+> > [!div]
+> >> #### Entry title name
+> >> Insert entry lore here
 > 
-> 
-
-> [!abstract] CLASS
-> 
-
-> [!info] OCCURANCE
-
-> [!warning] IMMUNITY
-
->[!todo] TACTICS
-
-> [!abstract] ALCHEMY
+> > ```statblock
+> > creature: 
+> > ```

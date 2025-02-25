@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1740396396300,
+      "lastAccessed": 1740491874149,
       "markers": [
         {
           "id": "ID_3b8aeb180a8b",
@@ -125,9 +125,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "dnd-con/World/Map.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {

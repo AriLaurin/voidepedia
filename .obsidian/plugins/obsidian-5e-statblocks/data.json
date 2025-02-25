@@ -1,5 +1,38 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Dark Elf",
+      {
+        "name": "Dark Elf",
+        "size": "Medium",
+        "type": "Humanoid",
+        "encounter": 2,
+        "image": "[[darkelf.png]]",
+        "ac": "???",
+        "hp": "???",
+        "speed": "???",
+        "damage_resistances": "???",
+        "damage_vulnerabilities": "???",
+        "alchemy": "Thick Dark Elf Blood",
+        "occurance": "They are rumoured to have originated from the center of Syleris, known as 'Crown of Nyhl', and usually travel alone.",
+        "actions": [
+          {
+            "name": "Warp Terrain",
+            "desc": "Seemingly able to warp terrain around them to close distance between them and the target, or to warp the size of objects"
+          },
+          {
+            "name": "Snake Tongue",
+            "desc": "If one is spotted with a snake tongue, they can use it to smell your emotions"
+          },
+          {
+            "name": "Superhuman Capabilities",
+            "desc": "Known to have strength and agility beyond what is humanly feasible"
+          }
+        ],
+        "descs": "The dark elves are considered monsters, fearless creatures who took a different evolutionary path than the silver elves of Syleris. Their skin is incredibly thick and their eyes pale as the white snow."
+      }
+    ]
+  ],
   "defaultLayouts": {
     "basic-5e-layout": {
       "blocks": [
@@ -42,12 +75,19 @@
                   "id": "4be8cb0be8b8",
                   "properties": [
                     "size",
-                    "type",
-                    "subtype",
-                    "alignment"
+                    "type"
                   ],
                   "conditioned": true,
                   "separator": ", "
+                },
+                {
+                  "type": "property",
+                  "id": "1bfaf87a8bcb",
+                  "properties": [
+                    "encounter"
+                  ],
+                  "fallback": "-",
+                  "display": "Encountered"
                 }
               ],
               "conditioned": true
@@ -147,46 +187,36 @@
                 "damage_vulnerabilities"
               ],
               "conditioned": true
-            },
-            {
-              "type": "property",
-              "id": "6bfaea39f97b",
-              "display": "Senses",
-              "properties": [
-                "senses"
-              ],
-              "conditioned": true
             }
           ],
           "conditioned": true,
           "hasRule": true
         },
         {
-          "type": "traits",
-          "id": "d8d8bb2ba848",
+          "type": "property",
+          "id": "5b3b9a08a9ea",
           "properties": [
-            "traits"
+            "alchemy"
           ],
-          "conditioned": true,
-          "dice": true
+          "fallback": "-",
+          "display": "Alchemy"
         },
         {
-          "type": "spells",
-          "id": "999a3b2b884a",
-          "properties": [
-            "spells"
+          "type": "group",
+          "id": "89695b78e929",
+          "properties": [],
+          "nested": [
+            {
+              "type": "text",
+              "id": "6bb9f9283b09",
+              "properties": [
+                "occurance"
+              ],
+              "text": null,
+              "fallback": "-"
+            }
           ],
-          "conditioned": true,
-          "dice": true
-        },
-        {
-          "type": "text",
-          "id": "1b3849ab596a",
-          "properties": [
-            "spellsNotes"
-          ],
-          "conditioned": true,
-          "text": null
+          "heading": "Occurance"
         },
         {
           "type": "traits",
@@ -195,16 +225,6 @@
             "actions"
           ],
           "heading": "Actions",
-          "conditioned": true,
-          "dice": true
-        },
-        {
-          "type": "traits",
-          "id": "a8eb18b8abc9",
-          "properties": [
-            "bonus_actions"
-          ],
-          "heading": "Bonus Actions",
           "conditioned": true,
           "dice": true
         },
@@ -250,7 +270,7 @@
   "paths": [
     "/"
   ],
-  "autoParse": false,
+  "autoParse": true,
   "disableSRD": true,
   "tryToRenderLinks": false,
   "debug": false,
