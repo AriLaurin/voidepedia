@@ -14,7 +14,7 @@ characterRole: ???
 
 > [!infobox]
 > # `=this.file.name`
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+> ![[4824a8b4-6435-4651-a14e-a561a946a2d4.png]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|

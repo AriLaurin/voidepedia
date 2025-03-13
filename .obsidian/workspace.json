@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dnd-con/Characters/Don Quixote.md",
+                "file": "dnd-con/NPCS/Rose.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Don Quixote"
+              "title": "Rose"
             }
           }
         ]
@@ -157,8 +157,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -167,8 +167,18 @@
             "state": {
               "type": "help-mate",
               "state": {},
-              "icon": "life-buoy",
-              "title": "HelpMate"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "921bbb112581adc8",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ],
@@ -184,8 +194,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -200,8 +210,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -233,13 +243,15 @@
   },
   "active": "84798a14e5c59ae1",
   "lastOpenFiles": [
-    "dnd-con/Characters/Augur.md",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "dnd-con/NPCS/Rose.md",
+    "Pics/4824a8b4-6435-4651-a14e-a561a946a2d4.png",
     "dnd-con/Characters/Don Quixote.md",
+    "dnd-con/Characters/Augur.md",
     "dnd-con/Characters/Lassandra.md",
     "dnd-con/Characters/Makomo Masako.md",
     "dnd-con/Characters/Ullr Bergelund.md",
     "dnd-con/Characters/Zaggatha.md",
-    "dnd-con/NPCS/Rose.md",
     "dnd-con/NPCS/Hel.md",
     "dnd-con/NPCS/Scary Mercenary & Co.md",
     "dnd-con/NPCS/Silver Elf Royal.md",
@@ -262,14 +274,12 @@
     "dnd-con/Inventory.ledger",
     "dnd-wotv/Template/bestiary.template.md",
     "dnd-wotv/Template/Anomaly.template.md",
-    "dnd-con/Bestiary/Untitled.md",
     "Pics/darkelf.png",
     "Pics/outskirtstown.png",
     "Pics/rivertown.png",
     "Pics/asker.png",
     "Pics/eflwarrior.png",
     "Pics/hel 1.png",
-    "Pics/hel.png",
     "transactions.ledger",
     "dnd-wotv/Misc",
     "Pics",
