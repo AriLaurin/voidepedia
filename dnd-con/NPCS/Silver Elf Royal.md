@@ -38,3 +38,6 @@ characterRole:
 ## Journal Entry
 >#### Session 2
 >I found this royal in the cabin, next to a cradle with a baby in it. They explained how they are taking care of the baby who is the last one of its kind. The baby's name is "Olivia Parmenides", who had a blue crystal pendant on them, which the royal explained is a family heirloom to the Parmenides.
+>
+>#### Downtime 2
+>Before we parted ways with the silver elves, there was a short discussion about the culture of intimacy within the silver elves. They seem.. quite the opposite from my kind, even the birth of a newborn is rare amongst them.

@@ -55,3 +55,35 @@ The surviving royal family gave me a skeleton key, it will unlock most doors in 
 Theres a mage in the very capital of Alfheim, who has gone missing after his wife and kid died, but his residency should still be available for research
 
 I made an infiltration kit
+
+# Downtime 2
+We talked to the silver elf Royals about intimacy, their names was Julian and Elizabeth Stembock
+
+Don got embarassed thinking we were talking about relationships
+
+Momo and Zaggatha stepped outside to take a breather
+
+# Session 3
+Elliot is the name of the hot guy soldier
+
+Theres corpses burning in the capital, a lot of them seems to be terremiss guards
+
+The snake artefact was not possible to break by normal means, it was attempted to be sealed in a chest with. a blue crystal. Similar to that chest in the start of wotv, explained by Julian(?)
+
+Magnus is the mages name, researched the dark elves
+
+Some of Magnus' apprentices might be alive
+
+We found an elevated town, going towards the capital
+
+Theres a hot spring bath in Alden, bathing in it will give you medicinal purposes
+
+In the capital we found a wounded Terremis guard (Liv), who we helped burn the body of their dead comrade. 
+
+At the entrance of the castle, we found remains of a battle with little to no Terremis casualties, massive arrows piercing the walls, and a larger crater in the ground as if someone/something crashed here.
+
+# Downtime 3
+
+We met a peculiar beast-like person named Rose. She seems to be hoarding the silver elf treasure at the castle, and shows marks of khaos on her body. She explained that she took the offer from a talking flower, and now her body constantly suffers.
+
+Rose carries the silver ornament coffer we were looking for

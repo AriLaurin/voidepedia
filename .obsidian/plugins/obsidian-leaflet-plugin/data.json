@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1740492084897,
+      "lastAccessed": 1741857726485,
       "markers": [
         {
           "id": "ID_3b8aeb180a8b",
@@ -118,6 +118,54 @@
           "command": false,
           "percent": null,
           "description": "Asker",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9a808eabb18",
+          "type": "Point of Interest",
+          "loc": [
+            5140.848600193226,
+            3059.993547041329
+          ],
+          "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Hot Spring Bath",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb68d81b0ad9",
+          "type": "Town",
+          "loc": [
+            5130.766804289589,
+            2836.912406120429
+          ],
+          "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Elevated Town (Abandoned)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b48f999896a",
+          "type": "Town",
+          "loc": [
+            5426.337438825566,
+            2894.309589374556
+          ],
+          "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Alden Royal Castle",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

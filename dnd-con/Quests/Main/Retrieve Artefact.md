@@ -1,5 +1,5 @@
 ># MAIN OBJECTIVE
-> - [ ] Find the Artefact in Alden, Alfheim.
+> - [x] Find the Artefact in Alden, Alfheim.
 >
 >## OPTIONAL TASKS
  >- [ ] Discover any elven documents that may assist you on your personal goal
