@@ -86,4 +86,50 @@ At the entrance of the castle, we found remains of a battle with little to no Te
 
 We met a peculiar beast-like person named Rose. She seems to be hoarding the silver elf treasure at the castle, and shows marks of khaos on her body. She explained that she took the offer from a talking flower, and now her body constantly suffers.
 
-Rose carries the silver ornament coffer we were looking for
+Rose carries the silver ornament coffer we were looking for, however it seems that she needs it herself to keep the khaos magic from overpowering her own body, causing her pain.
+
+We introduced ourselves and she has offered to stay at her residence
+
+# Session 4
+
+Rose seems wary of getting in close contact with us, does her khaos magic do something on contact?
+
+we decided to join Rose for tea at her residence and then return to the Syleris Castle. Upon going through a rift that Rose made, we entered a very floral and peaceful place, with a large treehouse in front of us, in the style of a Bonsai tree.
+ 
+Rose has a chicken called Ginger, and an orange cat
+
+Rose has a collection of artifacts that we can get if we get her things in exchange, we use the bell Lassandra got to get in contact with Rose.
+
+Wind Cloak (Price: Rock sized chunk of silver)
+Leaf green leather boots
+Small perfume
+Tankard
+Leather cloth sack with runes
+Bronze framed Helmet with a purple gemstone
+Pendant with a ruby and two bronze hands holding it
+Sky blue gemstone
+Empty bag
+Ping pearl
+Metal goggles
+Cloak with eyes
+
+I got half a handful of silver elf pearl from a cloak
+
+We discovered the tower of Magnus the Mage, it appears there was a large battle here
+
+Magnus appears a little bit taller, his robes were larger than normal
+
+A note from Magnus Vahl:
+"If you reading this, i am dead, I have returned to my wife, and daughter. There is no need for you to seek me out. I have left my research, in this very room."
+
+All the books left in this room are written by Magnus
+
+One contains info about Crown of Nyhl, it wasn't always there. It appeared out of thin around year 0. Magnus was around 300 years old at the time of writing this. Before CoN, there was an almost bottomless circular ravine, with water at the bottom. Across the ravine there is a icy area. His ancestors never really got the chance to explore this place.
+
+A personal note mentions his first dark elf find, he found it when going closer to CoN, the dark elf just sat there and responded to his questions with short answers. The dark elf was contempt for some strange reason. there are notes on psychology, their very nature is rooted in hopelessness and despair. They find purpose in this. Just like humans and elf alike, the way they handle this is different from Dark Elf to Dark Elf, like how we people are complicated, rooted in our own natures, the same goes for our dark elves. We can find similarities strikingly similar to human and elf psychology, with just more contrast. Although Momo notices something else, most Dark elves are cruel, but its how like how people are fine, but there are outliers, with their own fascinations. Magnus figured out that most Dark elves are fond of music. At around Year 100 (Magnus was 200), he had a terrifying encounter with Hel. She didnt seem aggressive, and welcomed Magnus, which he found scary and try to flee, but his magic failed him. They sat down for a chat, Hel seemed very energetic. Hel was talking about Nyhl, with a very appraising manner, almost appreciating them like a Deity, or a very important figure. When parting ways, Hel gave Magnus the ornate chest, that we found out was the relic with the 5 empty slots. This relic, a circular emblem, was intrusted to him by the royals, and found striking similarities between this emblem and the relic inside the chest, and realized it was not a wise move to put the artefact in the chest, as it would fit. Magnus ended up lying to the Royals about what he found in the chest, and just said it was another emblem.
+ 
+Other notes explain his progress in magical arts, he has explored a lot of Syleris.
+
+A new book explains how Magnus's father tried to unite Alfheim with the rest of Syleris, by introducing Silver Elf infastructure around Syleris. These attempts were futile as around year 50, he was killed by some guy who was a little too greedy. Ever since, Alfheim has been completely isolated.
+
+We met a highly decorated Terremis soldier in Magnus's tower, who was very keen on attacking Zaggatha and Augur. Don asked if they know if Liv made it out alive, which the terremis guard seemed very dismissive on answering, she did not care.

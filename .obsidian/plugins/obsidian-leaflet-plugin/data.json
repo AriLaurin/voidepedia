@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1741857726485,
+      "lastAccessed": 1742052775628,
       "markers": [
         {
           "id": "ID_3b8aeb180a8b",
@@ -161,6 +161,7 @@
             5426.337438825566,
             2894.309589374556
           ],
+          "link": "Alden Royal Castle",
           "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -173,7 +174,9 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "dnd-con/World/Map - Syleris (Year 200).md"
+      ]
     }
   ],
   "defaultMarker": {
