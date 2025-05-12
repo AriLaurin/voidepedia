@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1742052775628,
+      "lastAccessed": 1746900811854,
       "markers": [
         {
           "id": "ID_3b8aeb180a8b",
@@ -25,13 +25,16 @@
           "id": "ID_dbc80ab849e9",
           "type": "Town",
           "loc": [
-            4697.299298878779,
-            3319.9381532033053
+            4468.914857098981,
+            3099.956128721825
           ],
           "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.8072802418546419,
+            -2.0689420634717504
+          ],
           "description": "Mousefolk Village (Scorched)",
           "minZoom": null,
           "maxZoom": null,
@@ -66,25 +69,6 @@
           "command": false,
           "percent": null,
           "description": "Silver Elf Cabin",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d919a9287b58",
-          "type": "Undiscovered",
-          "loc": [
-            5548,
-            2804
-          ],
-          "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.4563802083333333,
-            -0.9029947916666666
-          ],
-          "description": "Mage Residence",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -170,13 +154,27 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea1b9a6af879",
+          "type": "Point of Interest",
+          "loc": [
+            5537.59375,
+            2805.5
+          ],
+          "layer": "%5B%5BSyleris_parchment_map_upgrade.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mage's Residence",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "dnd-con/World/Map - Syleris (Year 200).md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
@@ -256,7 +254,59 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "850px",
+    "image": "[[Syleris_parchment_map_upgrade.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Syleris_parchment_map_upgrade.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -2.8,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "MapCalcExample",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        6144,
+        6144
+      ]
+    ],
+    "width": "100%",
+    "lat": 1024,
+    "long": 821,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
